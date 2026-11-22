@@ -12,3 +12,4 @@ CampusNotes is a project for organizing academic notes.
 - GitHub
 - Markdown
 Feature: subject-wise notes organization 
+Correction: notes should be organized by subject and semester. 
